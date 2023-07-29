@@ -1,7 +1,7 @@
 {
   "name": "VideoCompressor",
   "description": "Telegram's best Video Compress Bot",
-  "logo": "https://telegra.ph/file/1f41c8d9b755c95535ae0.jpg",
+  "logo": "https://graph.org/file/3f475d7de95f2f6489bb5.jpg",
   "keywords": [
     "telegram",
     "best",
@@ -9,9 +9,9 @@
     "compress",
     "bot"
   ],
-  "success_url": "https://t.me/hackelite01",
-  "website": "https://t.me/hackelitebotlist",
-  "repository": "https://github.com/hackelite01/VideoCompressorBot",
+  "success_url": "https://t.me/maheshsirop",
+  "website": "https://t.me/maheshsirop",
+  "repository": "https://github.com/TejoPtv/VideoCompressorBot",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable VARs when in ENV mode",
@@ -56,7 +56,7 @@
       "required": false
     },
     "BOT_USERNAME": {
-      "description": "Your Bot Username. Without `@` before Username!",
+      "description": "Your Bot Username. Without @ before Username!",
       "value": "",
       "required": true
     },
